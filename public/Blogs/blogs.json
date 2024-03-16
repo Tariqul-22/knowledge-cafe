@@ -1,39 +1,42 @@
 [
-    {
-      "Id": "1",
-      "cover": "https://i.ibb.co/7rhmX8n/cover-1.jpg",
-      "title": "The Mystery of the Lost Key",
-      "author_img": "https://i.ibb.co/ryh75Lj/img-1.jpg",
-      "posted_date": "2024-03-15",
-      "reading_time": "10 mins",
-      "hashtags": ["mystery", "adventure", "fiction"]
-    },
-    {
-      "Id": "2",
-      "cover": "https://i.ibb.co/wJ8xD6X/davisuko-2-Fd-Ivx7sy3-U-unsplash.jpg",
-      "title": "Cooking with Flavors",
-      "author_img": "https://i.ibb.co/s5MRdZD/img2.jpg",
-      "posted_date": "2024-03-14",
-      "reading_time": "15 mins",
-      "hashtags": ["cooking", "recipes", "food"]
-    },
-    {
-      "Id": "3",
-      "cover": "https://i.ibb.co/7rhmX8n/cover-1.jpg",
-      "title": "Coding for Beginners",
-      "author_img": "https://i.ibb.co/ryh75Lj/img-1.jpg",
-      "posted_date": "2024-03-13",
-      "reading_time": "20 mins",
-      "hashtags": ["coding", "programming", "beginners"]
-    },
-    {
-      "Id": "4",
-      "cover": "https://i.ibb.co/wJ8xD6X/davisuko-2-Fd-Ivx7sy3-U-unsplash.jpg",
-      "title": "Traveling the World",
-      "author_img": "https://i.ibb.co/s5MRdZD/img2.jpg",
-      "posted_date": "2024-03-12",
-      "reading_time": "30 mins",
-      "hashtags": ["travel", "adventure", "explore"]
-    }
+  {
+    "Id": "1",
+    "cover": "https://i.ibb.co/7rhmX8n/cover-1.jpg",
+    "title": "The Mystery of the Lost Key",
+    "name": "John Doe",
+    "author_img": "https://i.ibb.co/ryh75Lj/img-1.jpg",
+    "posted_date": "2024-03-15",
+    "reading_time": "10",
+    "hashtags": ["mystery", "adventure", "fiction"]
+  },
+  {
+    "Id": "2",
+    "cover": "https://i.ibb.co/wJ8xD6X/davisuko-2-Fd-Ivx7sy3-U-unsplash.jpg",
+    "title": "Cooking with Flavors",
+    "name": "Jane Smith",
+    "author_img": "https://i.ibb.co/s5MRdZD/img2.jpg",
+    "posted_date": "2024-03-14",
+    "reading_time": "15",
+    "hashtags": ["cooking", "recipes", "food"]
+  },
+  {
+    "Id": "3",
+    "cover": "https://i.ibb.co/7rhmX8n/cover-1.jpg",
+    "title": "Coding for Beginners",
+    "name": "Alice Johnson",
+    "author_img": "https://i.ibb.co/ryh75Lj/img-1.jpg",
+    "posted_date": "2024-03-13",
+    "reading_time": "20",
+    "hashtags": ["coding", "programming", "beginners"]
+  },
+  {
+    "Id": "4",
+    "cover": "https://i.ibb.co/wJ8xD6X/davisuko-2-Fd-Ivx7sy3-U-unsplash.jpg",
+    "title": "Traveling the World",
+    "name": "David Williams",
+    "author_img": "https://i.ibb.co/s5MRdZD/img2.jpg",
+    "posted_date": "2024-03-12",
+    "reading_time": "30",
+    "hashtags": ["travel", "adventure", "explore"]
+  }
 ]
-  

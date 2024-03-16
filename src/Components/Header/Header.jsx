@@ -1,8 +1,12 @@
-
+import profileImage from '../../assets/images/profile.png'
 const Header = () => {
     return (
-        <div>
-            <h1 className='text-6xl bg-green-500'>Vite + React</h1>
+        <div className='container mx-auto'>
+            <div className='my-10 flex justify-between items-center'>
+            <h1 className='text-4xl'>Knowledge Cafe</h1>
+            <img src={profileImage} alt="" />
+            </div>
+            <hr />
         </div>
     );
 };
